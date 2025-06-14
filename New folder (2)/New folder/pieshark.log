@@ -1,0 +1,224 @@
+2025-06-14 00:20:26,365 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 00:20:26,381 - pieshark - INFO - PieShark framework initialized
+2025-06-14 00:20:26,474 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 00:20:31,786 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 00:20:31,786 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 00:20:32,145 - pieshark - INFO - Starting HTTP server
+2025-06-14 00:20:32,208 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 00:20:32,208 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 00:20:38,061 - pieshark - DEBUG - Created session 4c4f777d... for user anonymous
+2025-06-14 00:20:38,235 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 00:20:38,493 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 00:20:38] "GET /about HTTP/1.1" 200 -
+2025-06-14 00:20:40,205 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 00:20:40,333 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 00:20:40] "GET /static/example.css HTTP/1.1" 200 -
+2025-06-14 00:21:29,995 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 00:21:29,995 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 00:21:29,995 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:21:29,995 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:21:29,995 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:21:29,995 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:21:29,995 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 00:21:30,104 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 00:21:58,599 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 00:21:58,604 - pieshark - INFO - PieShark framework initialized
+2025-06-14 00:21:58,657 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 00:21:59,418 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 00:21:59,419 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 00:21:59,574 - pieshark - INFO - Starting HTTP server
+2025-06-14 00:21:59,596 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 00:21:59,597 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 00:22:01,236 - pieshark - DEBUG - Created session 1e09ff93... for user anonymous
+2025-06-14 00:22:01,347 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 00:22:01,399 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 00:22:01] "GET /about HTTP/1.1" 200 -
+2025-06-14 00:22:01,628 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 00:22:01,672 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 00:22:01] "GET /static/example.css HTTP/1.1" 200 -
+2025-06-14 00:38:31,058 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 00:38:31,125 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 00:38:31,244 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:38:31,245 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:38:31,251 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:38:31,252 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 00:38:31,252 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 00:38:31,818 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:18:14,235 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 09:18:14,235 - pieshark - INFO - PieShark framework initialized
+2025-06-14 09:18:14,298 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 09:18:17,972 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 09:18:17,972 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 09:18:18,113 - pieshark - INFO - Starting HTTP server
+2025-06-14 09:18:18,222 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 09:18:18,238 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 09:18:26,838 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 09:18:26,838 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:18:26,838 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:18:26,838 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:18:26,838 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:18:26,838 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:18:26,838 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:18:27,025 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:19:54,421 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 09:19:54,436 - pieshark - INFO - PieShark framework initialized
+2025-06-14 09:19:54,705 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 09:19:57,300 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 09:19:57,300 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 09:19:58,286 - pieshark - INFO - Starting HTTP server
+2025-06-14 09:19:58,358 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 09:19:58,358 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 09:20:22,229 - pieshark - DEBUG - Created session 74728aa2... for user anonymous
+2025-06-14 09:20:23,140 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 09:20:25,214 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 09:20:25] "GET /about HTTP/1.1" 200 -
+2025-06-14 09:20:28,206 - MemoryAwareStruct - INFO - Successfully deleted: method
+2025-06-14 09:20:29,554 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 09:20:29] "GET /static/example.css HTTP/1.1" 200 -
+2025-06-14 09:20:42,567 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 09:20:42,567 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:20:42,567 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:20:42,567 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:20:42,567 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:20:42,567 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 09:20:42,567 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 09:20:42,755 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:23:24,025 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:23:24,088 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:23:24,135 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:23:27,457 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:23:27,457 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:23:27,629 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:23:27,692 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:23:27,707 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:25:14,045 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:25:14,045 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:25:14,045 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:25:14,045 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:25:14,045 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:25:14,045 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:25:14,045 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:25:14,295 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:25:23,766 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:25:23,766 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:25:23,829 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:25:25,373 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:25:25,373 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:25:25,514 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:25:25,545 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:25:25,545 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:26:03,636 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:26:03,636 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:26:03,636 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:26:03,636 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:26:03,636 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:26:03,636 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:26:03,636 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:26:03,761 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:26:11,886 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:26:11,886 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:26:11,918 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:26:12,699 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:26:12,699 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:26:12,824 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:26:12,824 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:26:12,839 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:28:07,402 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:28:07,402 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:28:07,402 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:28:07,402 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:28:07,402 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:28:07,402 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:28:07,402 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:28:07,637 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:28:15,662 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:28:15,662 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:28:15,709 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:28:16,443 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:28:16,443 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:28:16,584 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:28:16,599 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:28:16,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:29:00,175 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:29:00,175 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:29:00,190 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:29:00,190 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:29:00,190 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:29:00,190 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:29:00,190 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:29:00,378 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:29:08,259 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:29:08,259 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:29:08,290 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:29:09,116 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:29:09,116 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:29:09,241 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:29:09,257 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:29:09,257 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:40:37,040 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:40:37,072 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:40:37,119 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:37,119 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:37,119 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:37,134 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:37,134 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:40:37,572 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:40:46,025 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:40:46,025 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:40:46,087 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:40:49,697 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:40:49,697 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:40:49,837 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:40:49,853 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:40:49,853 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:40:58,486 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 12:40:58,486 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:40:58,486 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:58,486 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:58,486 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:58,486 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 12:40:58,486 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:40:58,596 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 12:41:25,595 - pieshark - INFO - SessionManager initialized with 2D array storage, timeout: 3600s
+2025-06-14 12:41:25,595 - pieshark - INFO - PieShark framework initialized
+2025-06-14 12:41:25,696 - pieshark - INFO - Blueprint 'auth' registered with 2 routes
+2025-06-14 12:41:26,296 - pieshark - INFO - Serving static files from C:\Users\pc\Downloads\PieShark-main\static at /static/
+2025-06-14 12:41:26,296 - pieshark - INFO - Starting server on 0.0.0.0:80
+2025-06-14 12:41:26,645 - pieshark - INFO - Starting HTTP server
+2025-06-14 12:41:26,663 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.102:80
+2025-06-14 12:41:26,663 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 13:12:32,103 - pieshark - INFO - Received signal 2, shutting down...
+2025-06-14 13:12:32,218 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 13:12:32,360 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 13:12:32,363 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 13:12:32,383 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 13:12:32,387 - MemoryAwareStruct - INFO - Reset to original state
+2025-06-14 13:12:32,389 - pieshark - INFO - Cleaning up PieShark resources...
+2025-06-14 13:12:35,021 - pieshark - INFO - Cleaning up PieShark resources...

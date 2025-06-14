@@ -1,0 +1,60 @@
+# Include the README and other important files
+include README.md
+include LICENSE
+include CHANGELOG.md
+include pyproject.toml
+include requirements.txt
+include requirements-dev.txt
+
+# Include all JavaScript files
+recursive-include app/piesharkx/js *.js
+
+# Include template files if any
+recursive-include app/piesharkx/templates *
+
+# Include static files if any
+recursive-include app/piesharkx/static *
+
+# Include configuration files
+include app/piesharkx/*.json
+include app/piesharkx/*.yaml
+include app/piesharkx/*.yml
+include app/piesharkx/*.ini
+include app/piesharkx/*.cfg
+
+# Include documentation
+recursive-include docs *
+prune docs/_build
+
+# Exclude unnecessary files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.pyd
+global-exclude __pycache__
+global-exclude .DS_Store
+global-exclude *.so
+global-exclude .git*
+global-exclude .coverage
+global-exclude .pytest_cache
+global-exclude .mypy_cache
+global-exclude .tox
+global-exclude .venv
+global-exclude venv
+global-exclude env
+global-exclude build
+global-exclude dist
+global-exclude *.egg-info
+
+# Exclude test files from distribution
+recursive-exclude tests *
+recursive-exclude test *
+exclude test_*
+exclude *_test.py
+
+# Exclude development files
+exclude .pre-commit-config.yaml
+exclude .gitignore
+exclude .gitattributes
+exclude Makefile
+exclude tox.ini
+exclude .editorconfig
